@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Find More</string>
+    <string name="www_findmore_com">www.findmore.com</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_Cart">Cart</string>
+    <string name="title_compass">Compass</string>
+    <string name="title_profile">My Profile</string>
+
+</resources>

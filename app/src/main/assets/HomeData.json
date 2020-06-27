@@ -1,0 +1,137 @@
+{
+  "user_id": 24356879,
+  "tokenid": "genova12345",
+  "loginType":"gmail",
+  "loginToken": "gBahxtui785sdkhs",
+  "loginStatus": true,
+  "isActive": true,
+  "email_id": "shivayogih73@gmail.com",
+  "bannerItems": {
+    "limited_offers": [
+      {
+        "offer_id": 1245,
+        "offer_type": "limited_offers",
+        "offer_name": "Limited offers",
+        "offer_descriptions": "Shop Bath & Ritual at AED/SAR 500, Retail price AED/SAR 800",
+        "offer_image": null
+      }
+    ]
+  },
+  "customer_like_categories": [
+    {
+      "category_id": 1245,
+      "category_label": "SKINCARE",
+      "category_name": "skincare",
+      "category_image": "ic_skincare",
+      "category_descriptions": "skincare descriptions"
+    },
+    {
+      "category_id": 1246,
+      "category_label": "COSMETICS",
+      "category_name": "cosmetics",
+      "category_image": "ic_cosmetics",
+      "category_descriptions": "cosmetics descriptions"
+    }
+  ,
+    {
+      "category_id": 1247,
+      "category_label": "PERFUMES",
+      "category_name": "perfumes",
+      "category_image": "ic_perfumes",
+      "category_descriptions": "perfumes descriptions"
+    }
+  ],
+  "new_arrivals": [
+    {
+      "product_id": 4525,
+      "product_categoryname": "",
+      "product_categoryid": "cat7548",
+      "product_labe": "",
+      "product_image": ""
+    }
+  ],
+  "products": [
+    {
+      "product_id": "prod456",
+      "product_name": "Woody Intense_1",
+      "product_label": "Woody Intense_1",
+      "product_image": "ic_skincare",
+      "product_amount": 200,
+      "product_discount_offer": "6% off",
+      "product_discount_offer_amount": 12,
+      "product_amount_currency": "SAR",
+      "product_isAvailable": true,
+      "product_retailerid": "ret560068",
+      "product_isfaverit": true,
+      "product_specification": "100 ml",
+      "product_categoryName": "SKINCARE",
+      "product_categoryId": "SKINCARE123"
+    },
+    {
+      "product_id": "prod457",
+      "product_name": "Woody Intense_2",
+      "product_label": "Woody Intense_2",
+      "product_image": "ic_skincare",
+      "product_amount": 5,
+      "product_discount_offer": "8% off",
+      "product_discount_offer_amount": 16,
+      "product_amount_currency": "SAR",
+      "product_isAvailable": true,
+      "product_specification": "100 ml",
+      "product_retailerid": "ret560068",
+      "product_isfaverit": true,
+      "product_categoryName": "SKINCARE",
+      "product_categoryId": "SKINCARE12"
+    },
+    {
+      "product_id": "prod458",
+      "product_name": "Woody Intense_3",
+      "product_label": "Woody Intense_3",
+      "product_image": "ic_skincare",
+      "product_amount": 5,
+      "product_discount_offer": "8% off",
+      "product_discount_offer_amount": 16,
+      "product_amount_currency": "SAR",
+      "product_isAvailable": true,
+      "product_retailerid": "ret560068",
+      "product_isfaverit": true,
+      "product_specification": "100 ml",
+      "product_categoryName": "SKINCARE",
+      "product_categoryId": "SKINCARE"
+    },
+    {
+      "product_id": "prod459",
+      "product_name": "Woody Intense_4",
+      "product_label": "Woody Intense_4",
+      "product_image": "ic_skincare",
+      "product_amount": 5,
+      "product_discount_offer": "10% off",
+      "product_discount_offer_amount": 20,
+      "product_service_charges": 1,
+      "product_specification": "100 ml",
+      "product_amount_currency": "SAR",
+      "product_isAvailable": true,
+      "product_retailerid": "ret560068",
+      "product_isfaverit": true,
+      "product_categoryName": "SKINCARE",
+      "product_categoryId": "SKINCARE458"
+    },
+    {
+      "product_id": "prod4510",
+      "product_name": "Woody Intense_5",
+      "product_label": "Woody Intense_5",
+      "product_image": "ic_skincare",
+      "product_amount": 5,
+      "product_discount_offer": "3% off",
+      "product_discount_offer_amount": 6,
+      "product_amount_currency": "SAR",
+      "product_isAvailable": true,
+      "product_specification": "100 ml",
+      "product_retailerid": "ret560068",
+      "product_isfaverit": true,
+      "product_categoryName": "SKINCARE",
+      "product_categoryId": "SKINCARE458"
+    }
+  ]
+
+}

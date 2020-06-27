@@ -8,4 +8,27 @@
     <string name="title_compass">Compass</string>
     <string name="title_profile">My Profile</string>
 
+
+    <string name="best_selling_products">Best Selling Products</string>
+    <string name="limited_time_offer">Limited time Offer</string>
+    <string name="what_you_may_like">What you may like</string>
+    <string name="sorry">Sorry!</string>
+    <string name="refresh">REFRESH</string>
+    <string name="back_to_home">BACK TO HOME</string>
+    <string name="congratulations">CONGRATULATIONS!</string>
+    <string name="error_maintenance">We are currently undergoing maintenance. This won\'t take too long!</string>
+    <string name="your_order_has_been_processed_you_will_receive_a_confirmation_email">Your order has been processed. You will receive a confirmation email.</string>
+    <string name="add_new_address">Add New Address</string>
+
+
+    <string name="apply_code_here">APPLY CODE HERE</string>
+    <string name="proceed_to_checkout">PROCEED TO CHECKOUT</string>
+    <string name="payment">PAYMENT</string>
+    <string name="shipping">SHIPPING</string>
+    <string name="login">LOGIN</string>
+    <string name="delivery_address">DELIVERY ADDRESS</string>
+    <string name="proceed_to_payment">PROCEED TO PAYMENT</string>
+    <string name="billing_address">BILLING ADDRESS</string>
+    <string name="same_as_shipping_address">Same as shipping address</string>
+
 </resources>

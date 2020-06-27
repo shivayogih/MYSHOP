@@ -1,0 +1,56 @@
+{
+  "user_id": 24356879,
+  "tokenid": "genova12345",
+  "firstName": "Rack",
+  "lastName": "jackson",
+  "gender": "man",
+  "email_id": "shivayogih73@gmail.com",
+  "phone_number": "7760902997",
+  "countryCode": 91,
+  "age": 24,
+  "isActive": true,
+  "address": [
+    {
+      "address_line": "126 Udhna,Bangalore,KA,India 560068",
+      "streetAddress": "126 Udhna",
+      "address_tag": "home",
+      "city": "Bangalore",
+      "state": "KA",
+      "isshipping_address": true,
+      "postalCode": 560068,
+      "country": "India",
+      "location": [
+        12.972442,
+        77.580643
+      ]
+    },
+    {
+      "address_line": "126 Udhna,Bangalore,KA,India 560068",
+      "streetAddress": "126 Udhna",
+      "address_tag": "work",
+      "city": "Bangalore",
+      "state": "KA",
+      "isshipping_address": false,
+      "country": "India",
+      "postalCode": 560068,
+      "location": [
+        12.972442,
+        77.580643
+      ]
+    },
+    {
+      "address_line": "126 Udhna,Bangalore,KA,India 560068",
+      "streetAddress": "126 Udhna",
+      "address_tag": "other",
+      "city": "Bangalore",
+      "state": "KA",
+      "isshipping_address": false,
+      "country": "India",
+      "postalCode": 560068,
+      "location": [
+        12.972442,
+        77.580643
+      ]
+    }
+  ]
+}
